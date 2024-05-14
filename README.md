@@ -1,1 +1,1 @@
-Drum-Kit is basically designed to learn various js concepts such as adding music to drum buttons and playing them by clicking on them. These buttons can also be played using keyboard keys.
+Drum-Kit is designed to produce different sounds of the drum by either clicking the buttons or pressing the keyboard keys. It is made using HTML, CSS, and Js.
